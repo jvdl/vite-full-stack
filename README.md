@@ -1,2 +1,3 @@
-# vite-full-stack
-A full stack option for a Vite application
+# Vite Full Stack
+
+This template provides a minimal setup to get started with a full stack application in Vite.
